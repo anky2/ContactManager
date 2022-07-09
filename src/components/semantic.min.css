@@ -1,3 +1,7 @@
 .ui.container.center {
     width:185px;
 }
+.trash.alternate.outline.icon{
+    position: relative;
+    left: 900px;
+}
